@@ -1,0 +1,15 @@
+{
+  "name": "التعريب العربي (Arabic UI)",
+  "description": "إضافة لتعريب قوائم وإعدادات وأزرار تطبيق دسكورد إلى اللغة العربية.",
+  "authors": [
+    {
+      "name": "Arabic Community",
+      "id": "000000000000000000"
+    }
+  ],
+  "main": "index.js",
+  "hash": "4e42d776b2ef26a53160d1353f7614a4274863c40a73b361fe9777aab18521dd",
+  "vendetta": {
+    "icon": "ic_locale_24px"
+  }
+}
